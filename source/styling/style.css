@@ -1,0 +1,26 @@
+h1 {
+  color: darkblue;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+th,
+tr {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: lightcyan;
+}
+
+table {
+  text-align: center;
+}
+
+.resultsTable {
+  text-align: center;
+}
